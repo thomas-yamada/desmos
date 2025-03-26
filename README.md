@@ -1,2 +1,4 @@
-# desmos
-desmos graphs i've made over time
+# Desmos Graphs
+
+Trigonometry
+- [Dynamic Triangle](dynamic_triangle.md)
